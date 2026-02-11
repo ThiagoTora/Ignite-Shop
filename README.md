@@ -57,6 +57,9 @@ STRIPE_SECRET_KEY=sk_test_...
 
 04-ignite-shop/
 │
+├── .next/
+├── node_modules/
+│
 ├── app/
 │   ├── api/
 │   │   └── checkout/
@@ -99,6 +102,17 @@ STRIPE_SECRET_KEY=sk_test_...
 │   ├── HomeClient.tsx
 │   ├── layout.tsx
 │   └── page.tsx
+│ 
+├── .env.local
+├── .gitignore
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json   
+├── package.json   
+├── postcss.config.mjs
+├── tsconfig.json             
+├── next.config.ts
 
 ```
 
