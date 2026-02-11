@@ -112,7 +112,6 @@ STRIPE_SECRET_KEY=sk_test_...
 ├── package.json   
 ├── postcss.config.mjs
 ├── tsconfig.json             
-├── next.config.ts
 
 ```
 
