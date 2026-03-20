@@ -1,8 +1,8 @@
 // app/layout.tsx
-import {globalStyles} from '../app/styles/global'
+import {globalStyles} from '../src/styles/global'
 import { Roboto_Condensed } from 'next/font/google'
-import { getCssText } from './styles'
-import { Container} from './styles/pages/layout-styles'
+import { getCssText } from '../src/styles'
+import { Container} from '../src/styles/pages/layout-styles'
 import { Header } from './components/Header'
 import { CartProvider } from './context/CartContext'
 
