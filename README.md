@@ -1,8 +1,8 @@
-# 🛒 Ignite Shop
+# --------- Ignite Shop
 
 Uma aplicação de e-commerce moderna desenvolvida durante o bootcamp Ignite da Rocketseat, focada em performance e experiência do usuário, integrada com a API de pagamentos do Stripe.
 
-## 🚀 Tecnologias
+## --------- Tecnologias
 
 Este projeto foi construído com as seguintes tecnologias e bibliotecas:
 
@@ -15,7 +15,7 @@ Este projeto foi construído com as seguintes tecnologias e bibliotecas:
 - Ícones: Phosphor React
 - Cliente HTTP: Axios
 
-## ⚙️ Configuração do Ambiente
+## --------- Configuração do Ambiente
 
 Por segurança, as chaves do Stripe não são enviadas ao repositório. Para rodar o projeto, você precisa configurar o ambiente local:
 
@@ -32,7 +32,7 @@ STRIPE_SECRET_KEY=sk_test_...
 
 ```
 
-🛠️ Como executar
+### --------- Como executar
 1️⃣ Instale as dependências
 
 ```bash
@@ -51,7 +51,7 @@ STRIPE_SECRET_KEY=sk_test_...
    http://localhost:3000
 ```
 
-📁 Estrutura do Projeto
+### --------- Estrutura do Projeto
 
 ```bash
 
