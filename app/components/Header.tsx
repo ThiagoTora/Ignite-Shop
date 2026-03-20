@@ -6,7 +6,7 @@ import { ShoppingBagOpen } from 'phosphor-react'
 import * as Dialog from '@radix-ui/react-dialog'
 
 
-import { Header as HeaderContainer, LinkLogo, LogoContainer } from '../styles/pages/layout.styles'
+import { Header as HeaderContainer, LinkLogo, LogoContainer } from '../styles/pages/pagesLayout'
 import { useCart } from '../context/CartContext'
 import { CartModal } from './CartModal'
 import { usePathname } from 'next/navigation'

@@ -2,7 +2,7 @@
 import {globalStyles} from '../app/styles/global'
 import { Roboto_Condensed } from 'next/font/google'
 import { getCssText } from './styles'
-import { Container} from './styles/pages/layout.styles'
+import { Container} from './styles/pages/pagesLayout'
 import { Header } from './components/Header'
 import { CartProvider } from './context/CartContext'
 
